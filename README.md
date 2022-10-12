@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ... , golang 
+
+- ⚡ Fun fact: ...
+  - make the bar green
+
 <!--
 **ajikamaludin/ajikamaludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
