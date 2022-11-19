@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ... , golang 
-
+- 👯 I’m looking for remote works
 - ⚡ Fun fact: ...
   - make the bar green : 19-11-2022
 
