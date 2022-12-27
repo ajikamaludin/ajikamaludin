@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... , golang 
 - 🤔 I’m looking for remote works
 - ⚡ Fun fact: ...
-  - make the bar green : 22-12-2022
+  - make the bar green : 27-12-2022
 
 <!--
 **ajikamaludin/ajikamaludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
