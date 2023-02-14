@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... , golang 
+- 🌱 I’m currently learning ... , `about life` 
 - 🤔 I’m looking for remote works
 - ⚡ Fun fact: ...
   - make the bar green : 14-02-2023
