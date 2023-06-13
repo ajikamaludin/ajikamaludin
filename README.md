@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... , `about life` 
 - 🤔 I’m looking for remote works
 - ⚡ Fun fact: ...
-  - make the bar green : 12-06-2023
+  - make the bar green : 13-06-2023
 
 <!--
 **ajikamaludin/ajikamaludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
