@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... , `about life` 
 - 🤔 I’m looking for remote works
 - ⚡ Fun fact: ...
-  - make the bar green : 07-07-2023
+  - make the bar green : 08-07-2023
 
 [![wakatime](https://wakatime.com/badge/user/f0d6bf01-5c22-4b35-ae48-2744561a2a5f.svg)](https://wakatime.com/@f0d6bf01-5c22-4b35-ae48-2744561a2a5f)
 
