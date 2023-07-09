@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning ... , `about life` 
 - 🤔 I’m looking for remote works
+- checkout other projects : [ _Gitea🍵_ ](https://gitea.ajikamaludin.id)
 - ⚡ Fun fact: ...
   - make the bar green : 09-07-2023
 
