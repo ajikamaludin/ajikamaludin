@@ -4,7 +4,7 @@
 - 🤔 I’m looking for remote works
 - 🫖 self host repository - checkout other projects : [ _Gitea🍵_ ](https://gitea.ajikamaludin.id).
 - ⚡ Fun fact: ...
-  - make the bar green : 18-07-2023
+  - make the bar green : 19-07-2023
 
 [![wakatime](https://wakatime.com/badge/user/f0d6bf01-5c22-4b35-ae48-2744561a2a5f.svg)](https://wakatime.com/@f0d6bf01-5c22-4b35-ae48-2744561a2a5f)
 
