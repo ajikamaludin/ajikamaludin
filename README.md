@@ -4,7 +4,7 @@
 - 🤔 I’m looking for remote works
 - 🫖 self host repository - checkout other projects : <a href="https://gitea.ajikamaludin.id" target="_blank"> _Gitea🍵_ </a>.
 - ⚡ Fun fact: ...
-  - make the bar green : 25-04-2024
+  - make the bar green : 26-04-2024
 
 [![wakatime](https://wakatime.com/badge/user/f0d6bf01-5c22-4b35-ae48-2744561a2a5f.svg)](https://wakatime.com/@f0d6bf01-5c22-4b35-ae48-2744561a2a5f)
 
