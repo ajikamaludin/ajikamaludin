@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/f0d6bf01-5c22-4b35-ae48-2744561a2a5f.svg)](https://wakatime.com/@f0d6bf01-5c22-4b35-ae48-2744561a2a5f)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ajikamaludin/b2b33265-46a3-4146-89ff-70499e9b2243.png" style="width: 100%;height: 300px;"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ajikamaludin/b2b33265-46a3-4146-89ff-70499e9b2243.png" style="width: 400px;height: 300px;"/></a>
 
 <!--
 **ajikamaludin/ajikamaludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
