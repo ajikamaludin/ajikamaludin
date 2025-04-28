@@ -4,6 +4,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/f0d6bf01-5c22-4b35-ae48-2744561a2a5f.svg)](https://wakatime.com/@f0d6bf01-5c22-4b35-ae48-2744561a2a5f)
 
+<figure><embed src="https://wakatime.com/share/@ajikamaludin/f58144cf-a92d-41d9-9413-35c6a6ce6941.svg"></embed></figure>
+
 <!--
 **ajikamaludin/ajikamaludin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
