@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning `about life`
-  
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ajikamaludin/0bd78061-c2c7-4de2-b190-c96c97ea4177.png"/></a>
 
 [![wakatime](https://wakatime.com/badge/user/f0d6bf01-5c22-4b35-ae48-2744561a2a5f.svg)](https://wakatime.com/@f0d6bf01-5c22-4b35-ae48-2744561a2a5f)
 
